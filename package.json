@@ -6,6 +6,10 @@
     "dev": "webpack --watch",
     "build": "cross-env NODE_ENV=production webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/widilo/widilo-gutenberg-boilerplate.git"
+  },
   "keywords": [
     "Gutenberg",
     "WordPress",
@@ -22,5 +26,6 @@
     "cross-env": "^7.0.3",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
-  }
+  },
+  "homepage": "https://github.com/widilo/widilo-gutenberg-boilerplate"
 }
