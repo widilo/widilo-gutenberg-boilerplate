@@ -1,4 +1,4 @@
-# widilo-gutenberg-boilerplate
+# widilo ® Gutenberg Boilerplate (widilo-gutenberg-boilerplate)
 
 A boilerplate for the time-saving creation of WordPress Gutenberg Blocks or plugins for the Gutenberg Block Editor.
 
@@ -37,5 +37,5 @@ https://www.npmjs.com/package/@widilo/widilo-gutenberg-boilerplate
 
 GPL v.3
 
-**widilo® Gutenberg Boilerplate** <widilo-gutenberg-boilerplate> <br>
+**widilo® Gutenberg Boilerplate** (widilo-gutenberg-boilerplate) <br>
 Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
