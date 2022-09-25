@@ -1,30 +1,20 @@
-widilo-gutenberg-boilerplate
+# widilo-gutenberg-boilerplate
 
 A boilerplate for the time-saving creation of WordPress Gutenberg Blocks or plugins for the Gutenberg Block Editor.
 
-Installation:
+## Installation:
 
 1. Login to your WP installation via SSH/Terminal
-
 2. Switch to the WP plugin directory (wp-content/plugins)
-
 3. Install our boilerplate plugin using the following command: 
-
-   ```js
-   npm i @widilo/widilo-gutenberg-boilerplate
-   ```
-
-   
-
+   `npm i @widilo/widilo-gutenberg-boilerplate`
 4. After installation you can activate the boilerplate plugin in your WordPress backend or via WP-CLI.
 
-   
-
-   With our plugin framework you can add Gutenberg blocks, custom fields and other functionalities to the Gutenberg editor or your WordPress site very quickly, effectively and easily.
+With widilo-gutenberg-boilerplate plugin boilerplate you can add Gutenberg blocks, custom fields and other functionalities to the Gutenberg editor or your WordPress site very quickly, effectively and easily.
    
 CHANGELOG:
 
-v1.0.0
+1.0.0
 
 - 
 
