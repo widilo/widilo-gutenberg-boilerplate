@@ -62,6 +62,10 @@ If you want to create your own block you can simply make a copy of the **boilerp
 ## npm
 
 https://www.npmjs.com/package/@widilo/widilo-gutenberg-boilerplate
+
+## What's next?
+
+We will add additional block examples in next version : )
    
 ## Changelog:
 
