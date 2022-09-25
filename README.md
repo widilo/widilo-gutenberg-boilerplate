@@ -15,13 +15,6 @@ With **widilo-gutenberg-boilerplate** you can add Gutenberg blocks, custom field
 ## npm
 
 https://www.npmjs.com/package/@widilo/widilo-gutenberg-boilerplate
-
-## License
-
-GPL v.3 or later
-
-widilo® Gutenberg Boilerplate
-Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
    
 ## Changelog:
 
@@ -38,3 +31,11 @@ Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
 - Update README.md
 - Update "devDependencies" in package.json 
 - Add license.txt
+
+
+## License
+
+GPL v.3 or later
+
+widilo® Gutenberg Boilerplate
+Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
