@@ -14,10 +14,14 @@ With **widilo-gutenberg-boilerplate** you can add Gutenberg blocks, custom field
 
 ## Usage
 
-All gutenberg blocks are organized in the plugins folder **wp-content/plugins/widilo-gutenberg-boilerplate/blocks**. Inside the **blocks** folder you can create individual folders and files for every block you want to add. <br>
+All gutenberg blocks are organized in the plugins folder **wp-content/plugins/widilo-gutenberg-boilerplate/blocks**. Inside the **blocks** folder you can create individual folders and files for every block you want to add.
+
 As an example we have created a block called **widilo Boilerplate Block** -> widilo-gutenberg-boilerplate/blocks/boilerplate-block/boilerplate_block.js. 
 
-Feel free to change the **widilo Boilerplate Block** to your needs. Therefore open **boilerplate_block.js** -> widilo-gutenberg-boilerplate/blocks/boilerplate-block/boilerplate-block.js. You can change the title of your block, the block icon, the category and the block content as you wish.<br>
+Feel free to change the **widilo Boilerplate Block** to your needs. Therefore open **boilerplate_block.js** -> widilo-gutenberg-boilerplate/blocks/boilerplate-block/boilerplate-block.js. 
+
+You can change the title of your block, the block icon, the category and the block content as you wish.
+
 After you have finished your changes, run `npm run dev` in the plugin folder to make the magic happen.
 
 boilerplate_block.js:
