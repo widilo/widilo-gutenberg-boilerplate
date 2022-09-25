@@ -37,4 +37,5 @@ https://www.npmjs.com/package/@widilo/widilo-gutenberg-boilerplate
 
 GPL v.3
 
-widilo® Gutenberg Boilerplate | Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
+**widilo® Gutenberg Boilerplate** <widilo-gutenberg-boilerplate> <br>
+Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
