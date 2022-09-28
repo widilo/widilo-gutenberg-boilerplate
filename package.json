@@ -1,6 +1,6 @@
 {
   "name": "@widilo/widilo-gutenberg-boilerplate",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Gutenberg Blocks Boilerplate Plugin",
   "scripts": {
     "dev": "webpack --watch",
@@ -11,8 +11,8 @@
     "url": "https://github.com/widilo/widilo-gutenberg-boilerplate.git"
   },
   "publishConfig": {
-   "@widilo:registry": "https://npm.pkg.github.com"
- }
+    "@widilo_dev:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "Gutenberg",
     "WordPress",
@@ -20,7 +20,7 @@
     "Boilerplate",
     "Plugin"
   ],
-  "author": "Muennecke + Vollmers | widilo®",
+  "author": "Muennecke + Vollmers | widilo(r)",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@babel/core": "^7.19.1",
