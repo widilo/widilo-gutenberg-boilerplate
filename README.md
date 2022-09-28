@@ -65,7 +65,7 @@ https://www.npmjs.com/package/@widilo/widilo-gutenberg-boilerplate
 
 ## What's next?
 
-We will add additional block examples in next version : )
+We will add additional block examples in the next version : )
    
 ## Changelog:
 
@@ -77,16 +77,20 @@ We will add additional block examples in next version : )
 
 - Update README.md
 
-1.0.2
+1.0.2, 1.0.3, 1.0.4
 
 - Update README.md
 - Update "devDependencies" in package.json 
-- Add license.txt
+- Add/update license.txt
 
+1.0.5
+
+- Update README.md
+- Update package.json 
 
 ## License
 
-GPL v.3
+GPL v.3 or later
 
 **widilo® Gutenberg Boilerplate** (widilo-gutenberg-boilerplate) <br>
 Copyright (C) 2022 widilo® Muennecke & Vollmers GbR
