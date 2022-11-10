@@ -81,7 +81,7 @@ We will add additional block examples in the next version : )
 
 - Update README.md
 - Update "devDependencies" in package.json 
-- Add/update license.txt
+- Add / update license.txt
 
 1.0.5
 
